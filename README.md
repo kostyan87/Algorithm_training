@@ -27,7 +27,7 @@
 
 Условие:
 
-![img.png](img/l1_Interactor.png)
+![img.png](img/l1/Interactor.png)
 
 [Решение](src/main/java/lection1/Interactor.java)
   
@@ -37,7 +37,7 @@
 
 Условие:
 
-![img.png](img/RingMetroLine.png)
+![img.png](img/l1/RingMetroLine.png)
 
 [Решение](src/main/java/lection1/RingMetroLine.java)
 
@@ -47,7 +47,7 @@
 
 Условие:
 
-![img_1.png](img/Date.png)
+![img_1.png](img/l1/Date.png)
 
 [Решение](src/main/java/lection1/Date.java)
 
@@ -57,7 +57,7 @@
 
 Условие:
 
-![img_2.png](img/SchoolConstruction.png)
+![img_2.png](img/l1/SchoolConstruction.png)
 
 [Решение](src/main/java/lection1/SchoolConstruction.java)
 
@@ -67,11 +67,61 @@
 
 Условие:
 
-![img_3.png](img/PointAndTriangle.png)
+![img_3.png](img/l1/PointAndTriangle.png)
 
 [Решение](src/main/java/lection1/PointAndTriangle.java)
 
 [Тесты](src/test/java/lection1/PointAndTriangleTests.java)
+
+### Количество равных максимальному
+
+Условие:
+
+![img.png](img/l1/NumberEqualMax.png)
+
+[Решение](src/main/java/lection1/NumberEqualMax.java)
+
+[Тесты](src/test/java/lection1/NumberEqualMaxTests.java)
+
+### Дома и магазины
+
+Условие:
+
+![img_1.png](img/l1/HomesAndShops.png)
+
+[Решение](src/main/java/lection1/HomesAndShops.java)
+
+[Тесты](src/test/java/lection1/HomesAndShopsTests.java)
+
+### Изготовление палиндромов
+
+Условие:
+
+![img_2.png](img/l1/MakingPalindromes.png)
+
+[Решение](src/main/java/lection1/MakingPalindromes.java)
+
+[Тесты](src/test/java/lection1/MakingPalindromesTests.java)
+
+### Лавочки в атриуме
+
+Условие:
+
+![img_3.png](img/l1/BenchesInAtrium.png)
+
+[Решение](src/main/java/lection1/BenchesInAtrium.java)
+
+[Тесты](src/test/java/lection1/BenchesInAtriumTests.java)
+
+### Дипломы в папках
+
+Условие:
+
+![img_4.png](img/l1/DiplomasInFolders.png)
+
+[Решение](src/main/java/lection1/DiplomasInFolders.java)
+
+[Тесты](src/test/java/lection1/DiplomasInFoldersTests.java)
 
 ## Лекция 2: «Линейный поиск»
 
